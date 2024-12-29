@@ -65,4 +65,4 @@ class Car extends Vehicle {
   }
 }
 
-const car1 = new Vehicle('car', 'BMW', 8500);
+// const car1 = new Vehicle('car', 'BMW', 8500);
